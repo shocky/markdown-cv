@@ -1,32 +1,31 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Shocky HAN's CV
 ---
-# David Whipp
-Professor, University of Helsinki
+# Shocky HAN
+Director of Research Institute, BlockSmith, Inc.
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Pietari Kalmin katu 5)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+- 20+ years experience in Cloud Computing, Distributed Conputing, MSA, IoT Equipment Development, ETL, Data Science, 3D & 2D Graphics, Machine Vision, Pattern Recognition, AI, ML
+· OOP/OOA/OOD, UML, C++, Java/Spring, Delphi, Python/Flask, PHP/Yii, nodeJS, React, OpenCV, OpenGL, VTK, pyTorch, Arduino, AVR/C, C#/.Net, Windows/Linux System calls, x86 assembly
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<br/>
+IlsanSeogu, Goyang-si, Gyonggi-do, Korea<br/>
+<br/>
 
 <div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="http://www.helsinki.fi/geodynamics"><i class="fas fa-users"></i> www.helsinki.fi/geodynamics (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
+  <a href="https://shocky.github.io"><i class="fas fa-home"></i> shocky.github.io</a> - 
+  <a href="https://github.com/shocky"><i class="fab fa-github"></i> shocky</a> - 
+  <a href="http://www.riss.kr/link?id=T16656282"><i class="ai ai-riss"></i> T16656282</a> - 
+  <a href="https://linkedin.com/in/shocky-han-564203138"><i class="fab fa-linkedin-square" aria-hidden="true"></i> Shocky Han</a>
 </div>
 
 ## Education
 
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
+`2021-2023`
+**M.D., Civil Engineering**, *Daejin University*, Pocheon, Gyonggi-do, Korea.
 
 `1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
+**B.S., Civil Engineering**, *Hanyang University*, Seoul, Korea.
 
 ## Experience
 
